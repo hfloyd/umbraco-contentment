@@ -4,13 +4,16 @@
     <Product>Umbraco.Community.Contentment</Product>
     <PackageId>Our.Umbraco.Community.Contentment</PackageId>
     <Title>Contentment for Umbraco</Title>
-    <Description>Contentment, a collection of components for Umbraco 8.</Description>
+    <Description>Contentment, a collection of components for Umbraco 9.</Description>
     <PackageTags>umbraco</PackageTags>
-    <Version>3.0.0</Version>
+    <Version>3.0.0-develop</Version>
     <Company>Umbrella Inc Ltd</Company>
     <Authors>Lee Kelleher</Authors>
-    <Copyright>2019 Lee Kelleher</Copyright>
-    <PackageLicenseExpression>MPL</PackageLicenseExpression>
+    <Copyright>2019 © Lee Kelleher</Copyright>
+    <PackageLicenseExpression>MPL-2.0</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/leekelleher/umbraco-contentment</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/leekelleher/umbraco-contentment</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Umbraco.Cms.Web.Website" Version="9.0.0-beta001.20210427.20" />
