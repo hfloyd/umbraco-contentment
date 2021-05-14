@@ -49,11 +49,14 @@ Property Editors are:
 
 ### v2.0
 
-- _(At the time of writing),_ a breaking-change release _(following SemVer guidelines),_ of v1.4.x features that compiles against Umbraco CMS v8.13.
+- _(At the time of writing),_ a breaking-change release _(following SemVer guidelines),_ of v1.4.x features that will compile against Umbraco CMS v8.14.
 
-### v2.1
 
-- Cascading Dropdown List _(uses API endpoints to populate the dropdowns)_
+## v3
+
+### v3.0
+
+- _Under active development!_ [See my developer's journal for the latest updates.](https://github.com/leekelleher/umbraco-contentment/discussions/105) A breaking-change release _(following SemVer guidelines),_ of v2.x features that will compile against Umbraco CMS v9.0.0.
 
 
 ## Future feature releases
